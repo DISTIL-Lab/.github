@@ -9,7 +9,7 @@ We investigate how computing, communication, and intelligent systems can work to
 
 
 
-Members of the lab:
+## Members of the lab
 
 Assoc. Prof. Karan Mitra ([contact](https://karanmitra.me/))
 
@@ -19,12 +19,12 @@ Doctoral student Omid Saedi
 
 ## Alumini Members
 
-- Daniel González Arango
-- Turan Eminli
-- Ashmita Thapa
-- Tore Myhr
-- Johan Jakobsson
-- Justin Gavrell
-- Ali Aryaei
-- Samuel Larsson
-- Markus Blomqvist
+- Daniel González Arango (2025)
+- Turan Eminli (2025)
+- Ashmita Thapa (2022)
+- Tore Myhr (2026)
+- Johan Jakobsson (2025)
+- Justin Gavrell (2025)
+- Ali Aryaei (2025)
+- Samuel Larsson (2023)
+- Markus Blomqvist (2023)
