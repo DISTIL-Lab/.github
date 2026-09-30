@@ -11,13 +11,20 @@ We investigate how computing, communication, and intelligent systems can work to
 
 Members of the lab:
 
-Karan Mitra
+Assoc. Prof. Karan Mitra ([contact](https://karanmitra.me/))
 
-Henrique Souza Rossi
+Post Dr. Henrique Souza Rossi
 
-Omid Saedi
+Doctoral student Omid Saedi
 
+## Alumini Members
 
-
-
-
+- Daniel González Arango
+- Turan Eminli
+- Ashmita Thapa
+- Tore Myhr
+- Johan Jakobsson
+- Justin Gavrell
+- Ali Aryaei
+- Samuel Larsson
+- Markus Blomqvist
