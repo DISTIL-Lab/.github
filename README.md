@@ -1,4 +1,4 @@
-# .githubDISTIL
+DISTIL
 
 Distributed & Interactive SysTems Innovation Laboratory
 
