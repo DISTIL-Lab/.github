@@ -17,14 +17,14 @@ Post Dr. Henrique Souza Rossi
 
 Doctoral student Omid Saedi
 
-## Alumini Members
+## Alumni Members
 
+- Tore Myhr (2026)
 - Daniel González Arango (2025)
 - Turan Eminli (2025)
-- Ashmita Thapa (2022)
-- Tore Myhr (2026)
 - Johan Jakobsson (2025)
 - Justin Gavrell (2025)
 - Ali Aryaei (2025)
 - Samuel Larsson (2023)
 - Markus Blomqvist (2023)
+- Ashmita Thapa (2022)
