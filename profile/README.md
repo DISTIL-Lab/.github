@@ -19,12 +19,12 @@ Doctoral student Omid Saedi
 
 ## Alumni Members
 
-- Tore Myhr (2026)
+- Tore Myhr (2025)
 - Daniel González Arango (2025)
 - Turan Eminli (2025)
 - Johan Jakobsson (2025)
-- Justin Gavrell (2025)
 - Ali Aryaei (2025)
+- Justin Gavrell (2024)
 - Samuel Larsson (2023)
 - Markus Blomqvist (2023)
 - Ashmita Thapa (2022)
